@@ -1,6 +1,6 @@
 # expressRNA
 
-A web research platform for RNA-seq data analysis.
+Web research platform for RNA-seq data analysis.
 
 ## Authors
 
